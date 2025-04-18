@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextRPG_Sumin_v03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c76ef226c6af22dabaa87d6b5e762817da3e76f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextRPG_Sumin_v03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextRPG_Sumin_v03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
