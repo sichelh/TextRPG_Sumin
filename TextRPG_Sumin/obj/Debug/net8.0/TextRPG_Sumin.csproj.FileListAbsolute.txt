@@ -1,0 +1,14 @@
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\bin\Debug\net8.0\TextRPG_Sumin.exe
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\bin\Debug\net8.0\TextRPG_Sumin.deps.json
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\bin\Debug\net8.0\TextRPG_Sumin.runtimeconfig.json
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\bin\Debug\net8.0\TextRPG_Sumin.dll
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\bin\Debug\net8.0\TextRPG_Sumin.pdb
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\TextRPG_Sumin.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\TextRPG_Sumin.AssemblyInfoInputs.cache
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\TextRPG_Sumin.AssemblyInfo.cs
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\TextRPG_Sumin.csproj.CoreCompileInputs.cache
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\TextRPG_Sumin.dll
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\refint\TextRPG_Sumin.dll
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\TextRPG_Sumin.pdb
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\TextRPG_Sumin.genruntimeconfig.cache
+D:\UnityProj\TextRPG_Sumin\TextRPG_Sumin\obj\Debug\net8.0\ref\TextRPG_Sumin.dll
